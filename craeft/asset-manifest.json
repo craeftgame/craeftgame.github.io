@@ -1,5 +1,5 @@
 {
-  "main.css": "/craeft/static/css/main.056cf085.chunk.css",
+  "main.css": "/craeft/static/css/main.2ac0f011.chunk.css",
   "main.js": "/craeft/static/js/main.46695927.chunk.js",
   "main.js.map": "/craeft/static/js/main.46695927.chunk.js.map",
   "runtime~main.js": "/craeft/static/js/runtime~main.2698feab.js",
@@ -8,9 +8,9 @@
   "static/js/2.bdd2ac58.chunk.js": "/craeft/static/js/2.bdd2ac58.chunk.js",
   "static/js/2.bdd2ac58.chunk.js.map": "/craeft/static/js/2.bdd2ac58.chunk.js.map",
   "index.html": "/craeft/index.html",
-  "precache-manifest.0fbf82c44f6a6b867110deeaaaf3ec4f.js": "/craeft/precache-manifest.0fbf82c44f6a6b867110deeaaaf3ec4f.js",
+  "precache-manifest.bce5cf88687cc96d68f0f5b71bc1cc48.js": "/craeft/precache-manifest.bce5cf88687cc96d68f0f5b71bc1cc48.js",
   "service-worker.js": "/craeft/service-worker.js",
   "static/css/2.e6c711d6.chunk.css.map": "/craeft/static/css/2.e6c711d6.chunk.css.map",
-  "static/css/main.056cf085.chunk.css.map": "/craeft/static/css/main.056cf085.chunk.css.map",
+  "static/css/main.2ac0f011.chunk.css.map": "/craeft/static/css/main.2ac0f011.chunk.css.map",
   "static/media/main.scss": "/craeft/static/media/weapon-slot.777e3cfa.png"
 }
