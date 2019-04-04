@@ -1,16 +1,16 @@
 {
-  "main.css": "/craeft/static/css/main.2674c79d.chunk.css",
-  "main.js": "/craeft/static/js/main.4588729d.chunk.js",
-  "main.js.map": "/craeft/static/js/main.4588729d.chunk.js.map",
+  "main.css": "/craeft/static/css/main.056cf085.chunk.css",
+  "main.js": "/craeft/static/js/main.718f4e0a.chunk.js",
+  "main.js.map": "/craeft/static/js/main.718f4e0a.chunk.js.map",
   "runtime~main.js": "/craeft/static/js/runtime~main.2698feab.js",
   "runtime~main.js.map": "/craeft/static/js/runtime~main.2698feab.js.map",
-  "static/css/2.1b1987f0.chunk.css": "/craeft/static/css/2.1b1987f0.chunk.css",
-  "static/js/2.56e11a4f.chunk.js": "/craeft/static/js/2.56e11a4f.chunk.js",
-  "static/js/2.56e11a4f.chunk.js.map": "/craeft/static/js/2.56e11a4f.chunk.js.map",
+  "static/css/2.e6c711d6.chunk.css": "/craeft/static/css/2.e6c711d6.chunk.css",
+  "static/js/2.507c0f2e.chunk.js": "/craeft/static/js/2.507c0f2e.chunk.js",
+  "static/js/2.507c0f2e.chunk.js.map": "/craeft/static/js/2.507c0f2e.chunk.js.map",
   "index.html": "/craeft/index.html",
-  "precache-manifest.b1adb109367ced8b751f262d3645c27f.js": "/craeft/precache-manifest.b1adb109367ced8b751f262d3645c27f.js",
+  "precache-manifest.13cd58b3c9ad329f4ddbd7fd81bd358b.js": "/craeft/precache-manifest.13cd58b3c9ad329f4ddbd7fd81bd358b.js",
   "service-worker.js": "/craeft/service-worker.js",
-  "static/css/2.1b1987f0.chunk.css.map": "/craeft/static/css/2.1b1987f0.chunk.css.map",
-  "static/css/main.2674c79d.chunk.css.map": "/craeft/static/css/main.2674c79d.chunk.css.map",
-  "static/media/rpgui.css": "/craeft/static/media/weapon-slot.777e3cfa.png"
+  "static/css/2.e6c711d6.chunk.css.map": "/craeft/static/css/2.e6c711d6.chunk.css.map",
+  "static/css/main.056cf085.chunk.css.map": "/craeft/static/css/main.056cf085.chunk.css.map",
+  "static/media/main.scss": "/craeft/static/media/weapon-slot.777e3cfa.png"
 }
