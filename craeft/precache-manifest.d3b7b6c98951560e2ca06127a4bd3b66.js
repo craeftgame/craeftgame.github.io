@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fef4b0c86dc2cff2775f0c814f89857",
+    "revision": "1e50f1a9f2f44f304541172dd1395571",
     "url": "/craeft/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/craeft/static/css/2.ddd4d984.chunk.css"
   },
   {
-    "revision": "bded6051b2f76cea68ab",
+    "revision": "1da9dd48da1e79125704",
     "url": "/craeft/static/css/main.58069ea8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/craeft/static/js/2.0997c22b.chunk.js"
   },
   {
-    "revision": "bded6051b2f76cea68ab",
-    "url": "/craeft/static/js/main.0aaf23b8.chunk.js"
+    "revision": "1da9dd48da1e79125704",
+    "url": "/craeft/static/js/main.1266454f.chunk.js"
   },
   {
     "revision": "69ec0e42e5fab4e4e96a",
