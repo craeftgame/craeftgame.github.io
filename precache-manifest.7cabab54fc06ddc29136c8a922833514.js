@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "339fedcc7069ce3dee70d4c2d8b0e737",
+    "revision": "8c4652eab059fdd3485e26207251cb28",
     "url": "/craeft/index.html"
   },
   {
-    "revision": "57c6eb2cd93f6fa82f5f",
+    "revision": "c0613f36853a3fbdfe7e",
     "url": "/craeft/static/css/2.ddd4d984.chunk.css"
   },
   {
-    "revision": "f3010c3cd778258b9c85",
-    "url": "/craeft/static/css/main.58069ea8.chunk.css"
+    "revision": "9dafa0f528149e59084e",
+    "url": "/craeft/static/css/main.84f5bb63.chunk.css"
   },
   {
-    "revision": "57c6eb2cd93f6fa82f5f",
-    "url": "/craeft/static/js/2.0997c22b.chunk.js"
+    "revision": "c0613f36853a3fbdfe7e",
+    "url": "/craeft/static/js/2.ee35f87e.chunk.js"
   },
   {
-    "revision": "f3010c3cd778258b9c85",
-    "url": "/craeft/static/js/main.34e0fd6b.chunk.js"
+    "revision": "9dafa0f528149e59084e",
+    "url": "/craeft/static/js/main.7874395c.chunk.js"
   },
   {
     "revision": "69ec0e42e5fab4e4e96a",
