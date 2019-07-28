@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cf946edfb7401245397e07117417ec1",
+    "revision": "444dd7b18ea82c5404dc6618828e4e9b",
     "url": "/index.html"
   },
   {
@@ -8,24 +8,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.ddd4d984.chunk.css"
   },
   {
-    "revision": "05f072d94b8fb0aa8fd0",
-    "url": "/static/css/main.8fc165f5.chunk.css"
+    "revision": "899ce3d51ea8def7eea2",
+    "url": "/static/css/main.d2a0ae34.chunk.css"
   },
   {
     "revision": "c0613f36853a3fbdfe7e",
     "url": "/static/js/2.ee35f87e.chunk.js"
   },
   {
-    "revision": "05f072d94b8fb0aa8fd0",
+    "revision": "899ce3d51ea8def7eea2",
     "url": "/static/js/main.b224ee47.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
-  },
-  {
-    "revision": "5dd319e5729b3417d0e4cd64a3812bc7",
-    "url": "/static/media/armor-slot.5dd319e5.png"
   },
   {
     "revision": "16072a344d9481c4e38e4fd31f786894",
@@ -108,18 +104,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/checkbox-on.dda090ae.png"
   },
   {
-    "revision": "ef2aceb9aaf0560b2c2e214250ebdd0e",
-    "url": "/static/media/default.ef2aceb9.png"
-  },
-  {
-    "revision": "a34e64c33c967207b3d30d9eeb8db979",
-    "url": "/static/media/empty-slot.a34e64c3.png"
-  },
-  {
-    "revision": "71770965002fa16609b9c870295d769d",
-    "url": "/static/media/exclamation.71770965.png"
-  },
-  {
     "revision": "3624ba34f06b25a3ed8b3fe0be17fef6",
     "url": "/static/media/filters.3624ba34.svg"
   },
@@ -128,48 +112,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/grab-close.606364eb.png"
   },
   {
-    "revision": "2debd4125d13064d201c1f6ccbf59c29",
-    "url": "/static/media/grab-open.2debd412.png"
-  },
-  {
-    "revision": "9b36859da7757c476e6f00c7922aae8a",
-    "url": "/static/media/helmet-slot.9b36859d.png"
-  },
-  {
     "revision": "48fbe01b15f900b3300620e9b2536feb",
     "url": "/static/media/hr-golden.48fbe01b.png"
   },
   {
-    "revision": "15d924b0322a6dacec23c15e80da5518",
-    "url": "/static/media/hr.15d924b0.png"
-  },
-  {
-    "revision": "0fef858098073975d4d890561ffade3f",
-    "url": "/static/media/magic-slot.0fef8580.png"
-  },
-  {
     "revision": "32aa50c259dc57a1bd6272f1f06d813c",
     "url": "/static/media/merchant.32aa50c2.jpg"
-  },
-  {
-    "revision": "8d954a357c3898c6544d97e6e9cb0518",
-    "url": "/static/media/point.8d954a35.png"
-  },
-  {
-    "revision": "a4457e2c26433340cdbc2446722d4b69",
-    "url": "/static/media/potion-blue.a4457e2c.png"
-  },
-  {
-    "revision": "d231ec8cb62e31519c635e9d614ab91a",
-    "url": "/static/media/potion-green.d231ec8c.png"
-  },
-  {
-    "revision": "a3771bc61325ae218bc7698fff52e5e0",
-    "url": "/static/media/potion-red.a3771bc6.png"
-  },
-  {
-    "revision": "e4c0c68ade47534cced4b15a4c19c33a",
-    "url": "/static/media/potion-slot.e4c0c68a.png"
   },
   {
     "revision": "5168b9fc2cc7d97bd57a007216fb7087",
@@ -216,32 +164,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/radio-on.287354ad.png"
   },
   {
-    "revision": "1d2d325d7ae112a29fbe389032bdcf25",
-    "url": "/static/media/ring-slot.1d2d325d.png"
-  },
-  {
     "revision": "f9f827dc3d27e194daf2128fa0016954",
     "url": "/static/media/select-background-image.f9f827dc.png"
   },
   {
     "revision": "5820a66e58a50530d7e67ca63e752aa1",
     "url": "/static/media/select-border-image.5820a66e.png"
-  },
-  {
-    "revision": "22a178781f47a6d48e3d5188e08d0aac",
-    "url": "/static/media/select.22a17878.png"
-  },
-  {
-    "revision": "9932a7fbbf35e551608f8f9f73d7aa8d",
-    "url": "/static/media/shield-slot.9932a7fb.png"
-  },
-  {
-    "revision": "da794deb7dfb2da4b07fdb163019734e",
-    "url": "/static/media/shield.da794deb.png"
-  },
-  {
-    "revision": "1545d3293b1a610c94f1609049bde815",
-    "url": "/static/media/shoes-slot.1545d329.png"
   },
   {
     "revision": "61e770ac45daee97f4723d09625dd428",
@@ -276,16 +204,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/slider-track.94019479.png"
   },
   {
-    "revision": "c872b7f2be062a4481d1f4c84b7a2cea",
-    "url": "/static/media/sword.c872b7f2.png"
-  },
-  {
     "revision": "df243406e0b333b27f75ee8b211c68e2",
     "url": "/static/media/upc.df243406.png"
-  },
-  {
-    "revision": "777e3cfaf7b83aa0e4373ef940a08fea",
-    "url": "/static/media/weapon-slot.777e3cfa.png"
   },
   {
     "revision": "b1ee9f511a5e8a5560f0639488aa23c7",
